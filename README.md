@@ -4,3 +4,4 @@ AFTER isn’t “another bot”—it’s Strategic Orientation with evidence: it
 ## Files
 - `Agent After Bot Refinamiento X.json`: current n8n workflow definition.
 - `Agent After Bot Refinamiento X - improved.json`: updated workflow variant with refinements.
+- `Agent After Bot Refinamiento X Funciona hasta afterafterbrief.json`: workflow variant that runs through the afterafterbrief stage.
